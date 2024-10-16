@@ -11,5 +11,4 @@ I am a student with a passion for data analysis and Python automation. I am curr
 - Python Automation
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sukumaran-d-3375222ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+Linkedin [ https://www.linkedin.com/in/abdul-salam-1b91a82b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
